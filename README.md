@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
