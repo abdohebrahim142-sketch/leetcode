@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0394-decode-string) |
 ## Recursion
 |  |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
