@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0394-decode-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0394-decode-string) |
 ## Recursion
 |  |
