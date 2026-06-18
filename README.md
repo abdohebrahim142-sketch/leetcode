@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0853-car-fleet](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0853-car-fleet) |
 ## Recursion
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0853-car-fleet) |
 ## Matrix
 |  |
 | ------- |
