@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
