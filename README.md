@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
