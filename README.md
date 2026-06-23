@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0394-decode-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0394-decode-string) |
 ## Prefix Sum
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -144,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abdohebrahim142-sketch/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
